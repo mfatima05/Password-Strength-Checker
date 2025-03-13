@@ -1,4 +1,2 @@
-# Password-Strength-Checker
-Developed a Python-based password strength checker with regex-based complexity checks.
-Implemented length, complexity, and uniqueness checks to assess password strength.
-Provided real-time feedback on password weaknesses and recommendations for improvement.
+### Password Strength Checker
+A Python-based tool that evaluates password strength, helping users create more secure and resilient credentials for enhanced online security. It utilizes regex-based complexity checks to assess password strength by analyzing length, character diversity, and uniqueness. The tool also provides real-time feedback on weaknesses and offers recommendations for improvement.
